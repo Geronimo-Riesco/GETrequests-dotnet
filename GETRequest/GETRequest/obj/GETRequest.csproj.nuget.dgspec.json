@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GeronimoRiesco\\source\\repos\\GETRequest\\GETRequest\\GETRequest.csproj": {}
+    "C:\\Users\\GeronimoRiesco\\Downloads\\GETrequests-dotnet\\GETRequest\\GETRequest\\GETRequest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GeronimoRiesco\\source\\repos\\GETRequest\\GETRequest\\GETRequest.csproj": {
+    "C:\\Users\\GeronimoRiesco\\Downloads\\GETrequests-dotnet\\GETRequest\\GETRequest\\GETRequest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GeronimoRiesco\\source\\repos\\GETRequest\\GETRequest\\GETRequest.csproj",
+        "projectUniqueName": "C:\\Users\\GeronimoRiesco\\Downloads\\GETrequests-dotnet\\GETRequest\\GETRequest\\GETRequest.csproj",
         "projectName": "GETRequest",
-        "projectPath": "C:\\Users\\GeronimoRiesco\\source\\repos\\GETRequest\\GETRequest\\GETRequest.csproj",
+        "projectPath": "C:\\Users\\GeronimoRiesco\\Downloads\\GETrequests-dotnet\\GETRequest\\GETRequest\\GETRequest.csproj",
         "packagesPath": "C:\\Users\\GeronimoRiesco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GeronimoRiesco\\source\\repos\\GETRequest\\GETRequest\\obj\\",
+        "outputPath": "C:\\Users\\GeronimoRiesco\\Downloads\\GETrequests-dotnet\\GETRequest\\GETRequest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GeronimoRiesco\\AppData\\Roaming\\NuGet\\NuGet.Config",

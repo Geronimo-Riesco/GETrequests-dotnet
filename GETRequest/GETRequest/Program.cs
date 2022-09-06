@@ -1,6 +1,6 @@
 ﻿using System;
-using System.Net;
-using Newtonsoft.Json;
+using System.Net; // Para poder trabajar con peticiones HTTP
+using Newtonsoft.Json; // Para poder traducir los objetos JSON a C#
 
 namespace getrequest
 {
