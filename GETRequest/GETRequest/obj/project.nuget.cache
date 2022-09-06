@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ozlTkQRlwaGPoIxC6VA6pr3R7FpMHCcCvbAfGEanO818MnsEJfRwH+pb3VE9fVYA8w+rvpLALp8HUBGuHyIJlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GeronimoRiesco\\source\\repos\\GETRequest\\GETRequest\\GETRequest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GeronimoRiesco\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
